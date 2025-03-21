@@ -1,4 +1,4 @@
-# AMI_Packer_build
+# AMI_Packer_build With GitLab CI/CD Pipeline
 AMI Packer Build with GitLab CI/CD Pipelin
 
 Build Golden AMIs with Packer and AWS CodePipeline
